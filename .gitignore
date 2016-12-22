@@ -11,7 +11,7 @@
 !/image/cache/index.html
 
 # System Cache Files
-/system/storage/cache/*
+/system/storage/cache/catalog/demo/*
 !/system/storage/cache/index.html
 
 # Modification Files
